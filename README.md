@@ -13,7 +13,7 @@ How does the employment rates of blacks and whites residents in Washington D.C. 
 
 ## Data Source
 https://github.com/yoselassie99/baltimore-washingtondc-employmentrate-data/blob/master/Opportunity%20Atlas%20Data.xlsx
-All data was collected from the Opportunity Atlas Database.
+All data was collected from the Opportunity Atlas Database. The database collected information on individuals from several neighborhoods across America ranging from income to employment rate. 
 
 ## Data Analysis
 
@@ -33,6 +33,7 @@ All data was collected from the Opportunity Atlas Database.
 
 ## Summary 
 - It can be concluded that Baltimore black neigborhoods exhibit the greatest range in employment rate. 
-- The majority of comparisons also show similar rates of high employment and greatest disparities at lower employment rates. 
+- The majority of comparisons also show similar rates of high employment and greatest disparities at lower employment rates.
+- Baltimore neighborhoods recorded the highest employment rates. 
 - Employment rate may not be the best representation of social welfare. 
-- 
+
