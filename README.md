@@ -9,7 +9,7 @@ This project will investigate and compare the employment rate for black and whit
 
 
 ## Business Question
-How does the employment rates of blacks and whites residents in Washington D.C. and Baltimore, MD compare?
+How does the employment rates of black and white residents in Washington D.C. and Baltimore, MD compare?
 
 ## Data Source
 https://github.com/yoselassie99/baltimore-washingtondc-employmentrate-data/blob/master/Opportunity%20Atlas%20Data.xlsx
