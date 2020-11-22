@@ -21,7 +21,7 @@ All data was collected from the Opportunity Atlas Database. The database collect
 - Slightly higher employment rate in whites than blacks. 
 - Noticable disparity in low employment rates between blacks and whites 
 
-![alt text](https://github.com/yoselassie99/baltimore-washingtondc-employmentrate-data/blob/master/Blacks%20vs%20Whites%20Employment%20Baltimore.xlsm)
+![alt text](https://github.com/yoselassie99/baltimore-washingtondc-employmentrate-data/blob/master/Blacks%20vs%20Whites%20Employment%20Baltimore.png)
 - Similar employment rate in each neighborhood 
 
 ![alt text](https://github.com/yoselassie99/baltimore-washingtondc-employmentrate-data/blob/master/Average%20Employment%20Rate%20of%20DC%20White%20vs%20Baltimore%20White.png)
