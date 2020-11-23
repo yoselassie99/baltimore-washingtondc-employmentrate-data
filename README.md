@@ -9,13 +9,13 @@ This project will investigate and compare the employment rate for black and whit
 
 
 ## Business Question
-How does the employment rates of black and white residents in Washington D.C. and Baltimore, MD compare?
+How do the employment rates of black and white residents in Washington D.C. and Baltimore, MD compare?
 
 ## Data Source
 https://github.com/yoselassie99/baltimore-washingtondc-employmentrate-data/blob/master/Opportunity%20Atlas%20Data.xlsx
 All data was collected from the Opportunity Atlas Database. The database collected information on individuals from several neighborhoods across America ranging from income to employment rate. 
 
-## Data Analysis
+## Data Analysis (Excel)
 
 ![alt text](https://github.com/yoselassie99/baltimore-washingtondc-employmentrate-data/blob/master/Blacks%20vs%20Whites%20Employment%20DC.png)
 - Slightly higher employment rate in whites than blacks. 
@@ -30,6 +30,9 @@ All data was collected from the Opportunity Atlas Database. The database collect
 
 ![alt text](https://github.com/yoselassie99/baltimore-washingtondc-employmentrate-data/blob/master/Average%20Employment%20Rate%20of%20DC%20Black%20vs%20Baltimore%20Black.png)
 - Baltimore neighborhoods have both the highest and lowest employment rate
+
+## Data Analysis (Python)
+- In addition to analyzing the Baltimore and DC employment data through Excel, we also used Python for additional visualizations. 
 
 ## Summary 
 - It can be concluded that Baltimore black neigborhoods exhibit the greatest range in employment rate. 
