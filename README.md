@@ -31,16 +31,20 @@ All data was collected from the Opportunity Atlas Database. The database collect
 ![alt text](https://github.com/yoselassie99/baltimore-washingtondc-employmentrate-data/blob/master/Average%20Employment%20Rate%20of%20DC%20Black%20vs%20Baltimore%20Black.png)
 - Baltimore neighborhoods have both the highest and lowest employment rate
 
-## Data Analysis (Python)
-- In addition to analyzing the Baltimore and DC employment data through Excel, we also used Python for additional visualizations. Our primary goal in doing this is to compare Python with Excel as analytical tools. Using plotly express, I constructed bar graphs to compare average employment rates between blacks and whites in Baltimore and DC. In addition, I wanted to create a combined bar graph to compare the four averages.
-
-![alt_text](https://github.com/yoselassie99/baltimore-washingtondc-employmentrate-data/blob/master/AverageEmploymentRateinBaltimoreandDC.png)
-
-![alt_text](https://github.com/yoselassie99/baltimore-washingtondc-employmentrate-data/blob/master/AverageEmploymentinBaltimoreBar.png)
-
 ## Summary 
 - It can be concluded that Baltimore black neigborhoods exhibit the greatest range in employment rate. 
 - The majority of comparisons also show similar rates of high employment and greatest disparities at lower employment rates.
 - Baltimore neighborhoods recorded the highest employment rates. 
 - Employment rate may not be the best representation of social welfare. 
+
+## Data Analysis (Python)
+- In addition to analyzing the Baltimore and DC employment data through Excel, we also used Python for additional visualizations. Our primary goal in doing this is to compare Python with Excel as analytical tools. Using plotly express, I constructed bar graphs to compare average employment rates between blacks and whites in Baltimore and DC. In addition, I wanted to create a combined bar graph to compare the four averages.
+
+![alt_text](https://github.com/yoselassie99/baltimore-washingtondc-employmentrate-data/blob/master/AverageEmploymentinBaltimoreBar.png)
+
+
+
+![alt_text](https://github.com/yoselassie99/baltimore-washingtondc-employmentrate-data/blob/master/AverageEmploymentRateinBaltimoreandDC.png)
+
+
 
