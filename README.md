@@ -31,7 +31,7 @@ All data was collected from the Opportunity Atlas Database. The database collect
 ![alt text](https://github.com/yoselassie99/baltimore-washingtondc-employmentrate-data/blob/master/Average%20Employment%20Rate%20of%20DC%20Black%20vs%20Baltimore%20Black.png)
 - Baltimore neighborhoods have both the highest and lowest employment rate
 
-## Summary 
+## Summary (Excel)
 - It can be concluded that Baltimore black neigborhoods exhibit the greatest range in employment rate. 
 - The majority of comparisons also show similar rates of high employment and greatest disparities at lower employment rates.
 - Baltimore neighborhoods recorded the highest employment rates. 
