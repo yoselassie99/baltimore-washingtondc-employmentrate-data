@@ -34,6 +34,8 @@ All data was collected from the Opportunity Atlas Database. The database collect
 ## Data Analysis (Python)
 - In addition to analyzing the Baltimore and DC employment data through Excel, we also used Python for additional visualizations. Our primary goal in doing this is to compare Python with Excel as analytical tools. Using plotly express, I constructed bar graphs to compare average employment rates between blacks and whites in Baltimore and DC. In addition, I wanted to create a combined bar graph to compare the four averages.
 
+![alt_text](https://github.com/yoselassie99/baltimore-washingtondc-employmentrate-data/blob/master/AverageEmploymentRateinBaltimoreandDC.png)
+
 
 
 ## Summary 
