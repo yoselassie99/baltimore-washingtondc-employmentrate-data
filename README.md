@@ -42,7 +42,7 @@ All data was collected from the Opportunity Atlas Database. The database collect
 
 ![alt_text](https://github.com/yoselassie99/baltimore-washingtondc-employmentrate-data/blob/master/AverageEmploymentinBaltimoreBar.png)
 
-
+![alt_text](https://github.com/yoselassie99/baltimore-washingtondc-employmentrate-data/blob/master/AverageEmploymentinDCBar.png)
 
 ![alt_text](https://github.com/yoselassie99/baltimore-washingtondc-employmentrate-data/blob/master/AverageEmploymentRateinBaltimoreandDC.png)
 
