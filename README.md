@@ -55,4 +55,4 @@ I wanted to compare and analyze average employment rates since it was not includ
 In conclusion, I still believe employment rate data does not properly represent social welfare in communities. For example, the similar average employment rates between Baltimore blacks and whites does not mean the quality of life is similar, as additional factors such as household income helps paint a more complete picture. However, it is clear DC blacks and white have higher average employment rates than their peers in Baltimore. Therefore, if we are using employment rate as an indicator for social welfare, we can conclude social welfare is higher in DC than Baltimore.
 
 ### Google Colab Work
-Codes used for data processing and visualization is linked here. 
+Codes used for data processing and visualization is linked [here](https://colab.research.google.com/drive/13YwEFKBjLJR0tVOUkWmmT94VljG7kk00#scrollTo=7XJ8jH_lwi9r). 
